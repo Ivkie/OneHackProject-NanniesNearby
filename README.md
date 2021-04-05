@@ -1,9 +1,5 @@
 Nannies Nearby
 ==================
-##More information on DEVPOST/n
-Here is the link to our project to prove we did it on Qoom:
-https://swiftduck3.qoom.space/~/OneHack
-
 
 ##Inspiration
 Parents often find it extremely difficult to find someone to look after their children when they need to work or go out. 
@@ -30,3 +26,8 @@ Time was also another challenge, for it limited how long we could spend on debug
 
 ##What's next for Nannies Nearby
 We would like to expand Nannies Nearby by creating an app which has a built in messaging function making the process even easier for parents!
+
+==================
+##More information on DEVPOST
+Here is the link to our project to prove we did it on Qoom:
+https://swiftduck3.qoom.space/~/OneHack
