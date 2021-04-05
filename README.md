@@ -24,3 +24,7 @@ We then used Qoom as our coding platform as it allowed us to work together colla
 ##Challenges we ran into
 As first-time users of Qoom, there were quite a few bugs we had struggled with but we worked through the different options together. 
 Time was also another challenge, for it limited how long we could spend on debugging our code and restricted additional features we would have liked to add.
+
+
+##What's next for Nannies Nearby
+We would like to expand Nannies Nearby by creating an app which has a built in messaging function making the process even easier for parents!
