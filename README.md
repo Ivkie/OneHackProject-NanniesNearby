@@ -1,6 +1,6 @@
 Nannies Nearby
 ==================
-##More information on DEVPOST
+##More information on DEVPOST/n
 Here is the link to our project to prove we did it on Qoom:
 https://swiftduck3.qoom.space/~/OneHack
 
