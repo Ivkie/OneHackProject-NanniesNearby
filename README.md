@@ -3,7 +3,7 @@ Nannies Nearby
 More information on DEVPOST
 Here is the link to our project to prove we did it on Qoom:
 https://swiftduck3.qoom.space/~/OneHack
-==================
+
 
 ##Inspiration
 Parents often find it extremely difficult to find someone to look after their children when they need to work or go out. 
