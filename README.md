@@ -29,6 +29,7 @@ We would like to expand Nannies Nearby by creating an app which has a built in m
 
 
 ##More information on DEVPOST
+
 Here is the link to our project to prove we did it on Qoom:
 https://swiftduck3.qoom.space/~/OneHack
 
